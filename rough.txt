@@ -1,0 +1,150 @@
+<footer>
+<div id="header_row" class="row">
+
+<div id="a-n" class="col-6">
+<a href="Alphabet1.html"><p id="footerp"> Aa to Nn</p></a><div>
+</div>
+
+<div id="n-z" class="col-6">
+<a href="Alphabet2.html"><p id ="footerp"> Nn to Zz</p></a><div>
+</div>
+
+</div>
+</footer>
+
+<!DOCTYPE html>
+<html>
+<head>
+<Title> Alpha-beto-App</Title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="csscode1.css">
+
+</head>
+
+<body>
+
+<div class="top_header">
+<h1>Alpha-beto-app</h1>
+</div>
+
+
+
+
+<div id="row1" class="row">
+
+<div id="a_div" class="col-6">
+<p id="bigfont">Aa</p>
+
+<div id="a_img"><img src="apple.png" /height="100" width="100"></div>
+<h1>Apple</h1>
+</div>
+
+<div id="b_div" class="col-6">
+<p id="bigfont">Bb</p>
+<div id="b_img"><img src="ball.png" /height="100" width="100"></div>
+<h1>Ball</h1>
+</div>
+
+</div>
+<hr>
+<div id="row2" class="row">
+
+<div id="c_div" class="col-6">
+<h1>Cc</h1>
+<div id="c_img"><img src="pusheen.gif" height="100" width="100"></div>
+</div>
+
+<div id="d_div" class="col-6">
+<h1>Dd</h1>
+<div id="d_img"><img src="dog.gif" height="100" width="100"></div>
+</div>
+
+</div>
+
+<div id="row3" class="row">
+
+<div id="e_div" class="col-6">
+<h1>Ee</h1>
+<div id="e_img"></div>
+</div>
+
+<div id="f_div" class="col-6">
+<h1>Ff</h1>
+<div id="f_img"><img src="fish.png" height="100" width="100"></div>
+</div>
+
+</div>
+
+<div id="row4" class="row">
+
+<div id="g_div" class="col-6">
+<h1>Gg</h1>
+<div id="g_img"><img src="goat.png" height="100" width="100"></div>
+</div>
+
+<div id="h_div" class="col-6">
+<h1>Hh</h1>
+<div id="h_img"></div>
+</div>
+
+</div>
+<div id="row5" class="row">
+
+<div id="i_div" class="col-6">
+<h1>Ii</h1>
+<div id="i_img"></div>
+</div>
+
+<div id="j_div" class="col-6">
+<h1>Jj</h1>
+<div id="j_img"><img src="jar.png" height="100" width="100"></div>
+</div>
+
+</div>
+
+<div id="row6" class="row">
+
+<div id="k_div" class="col-6">
+<h1>Kk</h1>
+<div id="k_img"></div>
+</div>
+
+<div id="l_div" class="col-6">
+<h1>Ll</h1>
+<div id="l_img"><img src="lion.gif" height="100" width="100"></div>
+</div>
+
+</div>
+
+
+<div id="row7" class="row">
+
+<div id="m_div" class="col-6">
+<h1>Mm</h1>
+<div id="m_img" ></div>
+</div>
+
+<div id="n_div" class="col-6">
+<h1>Nn</h1>
+<div id="n_img" ><img src="nest.png" height="100" width="100"></div>
+</div>
+
+</div>
+
+
+
+<footer>
+<hr>
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 400px; float: left;"> <a href="Alphabet1.html" ><p id="footerp"> Aa to Nn</p></a> </div>
+	<div style="width: 500px; float: left;"> <a href="Alphabet2.html" ><p id="footerp">Nn to Zz</p></a> </div>
+    <div style="margin-left: 100px;"> <a href="Quiz.html" ><p id ="footerp">Now I've learnt my ABC</p></a> </div>
+	
+</div>
+<hr>
+</footer>
+
+
+</body>
+<html>
